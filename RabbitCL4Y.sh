@@ -186,7 +186,7 @@ mv -f CL4y-DDoS $HOME
 echo  $red" T E R I N S T A L L "
 fi
 
-if [ $bos = 2 ] || [ $bos = 3 ]
+if [ $bos = 2 ] || [ $bos = 2 ]
 then
 clear
 echo $green"install brute-webdav"
@@ -200,7 +200,7 @@ mv -f brute-webdav $HOME
 echo  $red" T E R I N S T A L L "
 fi
 
-if [$bos = 3 ] || [ $bos = 2 ]
+if [$bos = 3 ] || [ $bos = 3 ]
 then
 clear
 echo $yellow"install tools installer v1"
